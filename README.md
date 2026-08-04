@@ -1,8 +1,8 @@
 # Hi, I'm Tim 👋
 
-I'm a developer who enjoys building apps, games, and useful software — while sharing the process and everything I learn along the way.
+I'm a developer who's currently learning to build apps, games, and useful software while sharing the process and everything I learn along the way.
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 * **Minecraft Progression Mod**
   A mod that improves and expands Minecraft's progression system.
@@ -13,7 +13,7 @@ I'm a developer who enjoys building apps, games, and useful software — while s
 * **Desktop Productivity Tools**
   A collection of small desktop applications designed to simplify everyday tasks and improve productivity.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -35,19 +35,18 @@ I'm a developer who enjoys building apps, games, and useful software — while s
 
 `Docker` · `Git` · `GitHub`
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Mobile app development with React Native
 * Cloud deployment and application hosting
 * Minecraft modding with Java
 * Building maintainable and scalable software
 
-## 🎯 Current Goals
+## Current Goals
 
 * Publish my first complete Minecraft mod
 * Release useful desktop applications
 * Improve my mobile development skills
-* Contribute to open-source projects
 
 ## 🌐 Connect With Me
 
