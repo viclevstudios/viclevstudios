@@ -1,6 +1,6 @@
 # Hi, I'm Tim 👋
 
-I'm a developer who's currently learning to build fullstack apps, mobile applications and games. While I do that, I'm sharing everything I learn and the projects I build along the way.
+I'm the developer behind Visotran. Currently, I'm learning to build fullstack apps, mobile applications and games. While I do that, I'm sharing everything I learn and the projects I build along the way.
 
 ## What I'm Working On
 
@@ -11,7 +11,7 @@ I'm a developer who's currently learning to build fullstack apps, mobile applica
   A React Native project for learning about mobile development, APIs, and modern app architecture
 
 * **Desktop Productivity Tools**
-  A collection of small desktop applications that simplify everyday tasks and provide alternative to using online tools like a PDF Editor
+  A collection of desktop applications that simplify everyday tasks and provide offline alternatives to common online tools.
   
 * **Minecraft Progression Mod**
   A Minecraft Mod as a fun side project that improves and expands Minecraft's progression system
@@ -41,7 +41,7 @@ I'm a developer who's currently learning to build fullstack apps, mobile applica
 
 ## Currently Learning
 
-* Backend development with Express.js and JWT 
+* Building secure backend APIs with Express.js and JWT authentication
 * Mobile app development with React Native
 * Cloud deployment and application hosting
 * Minecraft modding with Java
@@ -54,9 +54,11 @@ I'm a developer who's currently learning to build fullstack apps, mobile applica
 
 ## 🌐 Connect With Me
 
-* Links: https://linktr.ee/Visotran.dev
-* LinkedIn: https://www.linkedin.com/in/tim-glaetzer-b06265426
 * Website: coming soon
+* [Links](https://linktr.ee/Visotran.dev)
+* [LinkedIn](https://www.linkedin.com/in/tim-glaetzer-b06265426)
+* [YouTube](https://www.youtube.com/@visotran)
+* [X](https://x.com/visotran)
 
 ---
 
