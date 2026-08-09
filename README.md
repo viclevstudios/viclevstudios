@@ -1,6 +1,6 @@
 # Hi, I'm Tim 👋
 
-I'm the developer behind Visotran. Currently, I'm learning to build fullstack apps, mobile applications and games. While I do that, I'm sharing everything I learn and the projects I build along the way.
+I'm the developer behind Viclev. Currently, I'm learning to build fullstack apps, mobile applications and games. While I do that, I'm sharing everything I learn and the projects I build along the way.
 
 ## What I'm Working On
 
@@ -55,10 +55,10 @@ I'm the developer behind Visotran. Currently, I'm learning to build fullstack ap
 ## 🌐 Connect With Me
 
 * Website: coming soon
-* [Links](https://linktr.ee/Visotran.dev)
+* [Links](https://linktr.ee/viclev)
 * [LinkedIn](https://www.linkedin.com/in/tim-glaetzer-b06265426)
-* [YouTube](https://www.youtube.com/@visotran)
-* [X](https://x.com/visotran)
+* [YouTube](https://www.youtube.com/@viclevstudios)
+* [X](https://x.com/viclevstudios)
 
 ---
 
