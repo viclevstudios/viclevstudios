@@ -7,7 +7,7 @@ I'm the developer behind Viclev. Currently, I'm learning to build fullstack apps
 * **Todo App**
   A simple Todo App as a practice project for frontend and backend development
 
-* **Spotify-Inspired Mobile App**
+* **Expense Tracker Mobile App**
   A React Native project for learning about mobile development, APIs, and modern app architecture
 
 * **Desktop Productivity Tools**
