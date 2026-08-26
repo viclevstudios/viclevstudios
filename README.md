@@ -4,7 +4,7 @@ I'm the developer behind Viclev. Currently, I'm learning to build fullstack apps
 
 ## What I'm Working On
 
-* **[Todo App:](https://github.com/viclevstudios/React-Test)**
+* **[Todo App:](https://github.com/viclevstudios/React-Test/tree/main/todo-app)**
   A simple Todo App as a practice project for frontend and backend development
 
 * **[Expense Tracker Mobile App:](https://github.com/viclevstudios/ExpenseTracker)**
