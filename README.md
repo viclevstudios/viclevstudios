@@ -4,17 +4,17 @@ I'm the developer behind Viclev. Currently, I'm learning to build fullstack apps
 
 ## What I'm Working On
 
-* **Todo App**
+* **[Todo App:](https://github.com/viclevstudios/React-Test)**
   A simple Todo App as a practice project for frontend and backend development
 
-* **Expense Tracker Mobile App**
+* **[Expense Tracker Mobile App:](https://github.com/viclevstudios/ExpenseTracker)**
   A React Native project for learning about mobile development, APIs, and modern app architecture
 
-* **Desktop Productivity Tools**
-  A collection of desktop applications that simplify everyday tasks and provide offline alternatives to common online tools.
+* **[PageSmith PDF:](https://github.com/viclevstudios/PageSmith)**
+  A PDF toolbox for Windows. It's the first programm of a collection of locally running productivity tools I want to create
   
-* **Minecraft Progression Mod**
-  A Minecraft Mod as a fun side project that improves and expands Minecraft's progression system
+* **[WildWays:](https://github.com/viclevstudios/WildWays)**
+  A Minecraft Mod as a fun side project that improves and expands Minecraft's progression, exploration and unused features
 
 
 ## Tech Stack
